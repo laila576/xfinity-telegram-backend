@@ -1,0 +1,13 @@
+
+{
+  "name": "xfinity-telegram-backend",
+  "version": "1.0.0",
+  "description": "Backend for the Xfinity Telegram bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
